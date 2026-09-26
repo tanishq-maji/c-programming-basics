@@ -23,3 +23,21 @@ This repository contains programs and problem-solving exercises completed while 
 ## Progress
 
 🚧 Currently learning C programming and building strong fundamentals.
+
+## Mini Projects
+
+- Student Management System
+- Bank Management System
+- Contact Book
+- Inventory Management System
+- Quiz Game
+
+## Advanced C Concepts
+
+- Dynamic Memory Allocation
+- Bitwise Operators
+- Function Pointers
+- Command Line Arguments
+- Advanced Structures
+- Advanced Linked Lists
+- Advanced Stack and Queue
