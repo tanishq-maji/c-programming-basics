@@ -100,7 +100,16 @@ int main() {
         printf("5. Exit\n");
 
         printf("Enter your choice: ");
-        scanf("%d", &choice);
+       if (scanf("%d", &choice) != 1) {
+    printf("Invalid input. Please enter a number.\n");
+
+    while (getchar() != '\n') {
+        // Clear invalid input
+    }
+
+    continue;
+}
+
 
         switch (choice) {
             case 1:
